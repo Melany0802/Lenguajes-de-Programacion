@@ -1,3 +1,4 @@
 # Lenguajes de Programación
-Instituto Tecnológico de Costa Rica \n
+Instituto Tecnológico de Costa Rica 
+
 Repositorio para ejercicios de Melany Jiménez 
