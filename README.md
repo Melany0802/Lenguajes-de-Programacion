@@ -1,2 +1,3 @@
-# Lenguajes-de-Programacion
-Repositorio de Melany Jiménez 
+# Lenguajes de Programación
+Instituto Tecnológico de Costa Rica
+Repositorio para ejercicios de Melany Jiménez 
