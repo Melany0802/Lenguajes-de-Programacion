@@ -38,3 +38,31 @@ func main() {
 	fmt.Println("Lineas: ", len(lines))
 
 }
+
+
+
+/*
+            RESPUESTA DEL CÓDIGO
+
+GOROOT=C:\Program Files\Go #gosetup
+GOPATH=C:\Users\Melany\Desktop\LENGUAJES DE PROGRAMACIÓN\TRABAJOS EXTRACLASE\S3-Contar_Frase\.idea #gosetup
+"C:\Program Files\Go\bin\go.exe" build -o C:\Users\Melany\AppData\Local\Temp\GoLand\___go_build_main_go.exe "C:\Users\Melany\Desktop\LENGUAJES DE PROGRAMACIÓN\TRABAJOS EXTRACLASE\S3-Contar_Frase\main.go" #gosetup
+C:\Users\Melany\AppData\Local\Temp\GoLand\___go_build_main_go.exe
+
+                 FRASE
+----------------------------------------------
+ Ella tiene el poder de destruirme, y la
+verdad no me importa, ser destruido
+por ella sería un jodido privilegio
+----------------------------------------------
+
+Caracteres:  113
+Palabras:  20
+Lineas:  3
+
+Process finished with the exit code 0
+
+
+
+
+*/
