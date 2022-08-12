@@ -1,10 +1,10 @@
 /*                 _____________________________________________________________________________________________________
                    |                                        EJERCICIO #2                                               |
                    |                                                                                                   |
-	               |     Escriba el programa más eficiente que pueda para imprimir en pantalla la siguiente figura:    |
+	           |     Escriba el programa más eficiente que pueda para imprimir en pantalla la siguiente figura:    |
                    |                                                                                                   |
                    |                                                                                                   |
-				   |											 *                                                     |
+	           |						 *                                                     |
                    |                                          *  *  *                                                  |
                    |                                       *  *  *  *  *                                               |
                    |                                          *  *  *                                                  |
@@ -76,5 +76,7 @@ C:\Users\Melany\AppData\Local\Temp\GoLand\___3go_build_main_go.exe
 
 
 Process finished with the exit code 0
+
+
 
 */
