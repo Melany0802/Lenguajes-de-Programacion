@@ -1,10 +1,10 @@
 /*                 _____________________________________________________________________________________________________
                    |                                        EJERCICIO #2                                               |
                    |                                                                                                   |
-	               |     Escriba el programa más eficiente que pueda para imprimir en pantalla la siguiente figura:    |
+	           |     Escriba el programa más eficiente que pueda para imprimir en pantalla la siguiente figura:    |
                    |                                                                                                   |
                    |                                                                                                   |
-				   |											 *                                                     |
+		   |						 *                                                     |
                    |                                          *  *  *                                                  |
                    |                                       *  *  *  *  *                                               |
                    |                                          *  *  *                                                  |
