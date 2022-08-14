@@ -1,7 +1,7 @@
 /*                 _____________________________________________________________________________________________________
                    |                                        EJERCICIO #3                                               |
                    |                                                                                                   |
-	               |    Escriba una función que permita rotar una secuencia de elementos N posiciones a la izquierda   |
+	           |    Escriba una función que permita rotar una secuencia de elementos N posiciones a la izquierda   |
                    |    o a la derecha según sea el caso en función al parámetro que se reciba. Los parámetros deeben  |
                    |    ser un puntero a un arreglo previamente creado, la cantidad de moviento de rotación y la       |
                    |    clasificación (0 =izquierda y 1 =derecha)                                                      |
