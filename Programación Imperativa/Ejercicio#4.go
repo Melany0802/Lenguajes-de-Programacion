@@ -1,7 +1,7 @@
 /*                 _____________________________________________________________________________________________________
                    |                                        EJERCICIO #4                                               |
                    |                                                                                                   |
-	               |    Escriba un programa que utilice una estructura y un arreglo/slice para almacenar en memoria    |
+	           |    Escriba un programa que utilice una estructura y un arreglo/slice para almacenar en memoria    |
                    |    un inventario de una tienda que vende zapatos. Cada zapato debe contar con la información      |
                    |    de su modelo (marca), su precio y la talla del mismo que debe ir únicamente del 34 al 44.      |
                    |    La estructura debe de llamarse "calzado". El programa debe de poder almacenar la información   |
