@@ -1,7 +1,0 @@
-eliminarElemento(_, [], []).
-
-eliminarElemento(Y, [Y|Xs],X):-
-          eliminarElemento(Y, Xs, X), !.
-
-eliminarElemento(X, [Y|Xs], [Y|X]):-
-          eliminarElemento(X, Xs, X).
